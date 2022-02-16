@@ -19,7 +19,7 @@
  </div>
  
  <div style="text-align:center"><h2 style="text-transform: uppercase; padding-top: 20px;">Tecnologias que Utilizo no meu dia</h2>
- <hr>
+
      <img atl="html"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -34,7 +34,7 @@
  
  <div>
  <h2 style="text-align:center; padding-top: 20px; text-transform: uppercase;" >Projetos já realizados</h2>
- <hr>
+
  <ul>
  <li>Site: <a href="https://renan600.github.io/Projeto-Games/" target="_self">https://renan600.github.io/Projeto-Games/</a></li>
  <li>Site: <a href="https://renan600.github.io/fruta-e-fruto/" target="_self">https://renan600.github.io/fruta-e-fruto/</a></li>
