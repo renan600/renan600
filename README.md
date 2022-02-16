@@ -1,7 +1,7 @@
 
- <h1 style="text-align:center">Olá! Eu sou o Renan Eduardo 😄</h1>
+ <h1 align="center">Olá! Eu sou o Renan Eduardo 😄</h1>
 
-<div style="text-align:center">
+<div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ragazon-8a3184212/)
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="text-align:center"><h2 style="text-transform: uppercase; padding-top: 20px;">Tecnologias que Utilizo no meu dia</h2>
+<div align="center"><h2 style="text-transform: uppercase; padding-top: 20px;">Tecnologias que Utilizo no meu dia</h2>
     <img atl="html"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,13 +17,13 @@
     
 </div>
 
-<div style="text-align:center; padding-top:10px;">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan600&layout=compact)](https://github.com/renan600/github-readme-stats)
 </div>
 
 <div>
-<h2 style="text-align:center; padding-top: 20px; text-transform: uppercase;" >Projetos já realizados</h2>
+<h2 align="center" >Projetos já realizados</h2>
 
 <ul>
 <li>Site: <a href="https://renan600.github.io/Projeto-Games/" target="_blank">https://renan600.github.io/Projeto-Games/</a></li>
@@ -38,5 +38,3 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
