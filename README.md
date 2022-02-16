@@ -1,5 +1,5 @@
 
- <h1 align="center">Olá! Eu sou o <a href="(https://www.linkedin.com/in/renan-ragazon-8a3184212/" target="_blank">Renan Eduardo</a> 😄</h1>
+ <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/renan-ragazon-8a3184212/"><i>Renan Eduardo</i></a> 😄</h1>
 
 <div align="center">
 
