@@ -26,11 +26,11 @@
 <h2 style="text-align:center; padding-top: 20px; text-transform: uppercase;" >Projetos já realizados</h2>
 
 <ul>
-<li>Site: <a href="https://renan600.github.io/Projeto-Games/" target="_self">https://renan600.github.io/Projeto-Games/</a></li>
-<li>Site: <a href="https://renan600.github.io/fruta-e-fruto/" target="_self">https://renan600.github.io/fruta-e-fruto/</a></li>
-<li>Site: <a href="https://renan600.github.io/Moto-Sport/" target="_self">https://renan600.github.io/Moto-Sport/</a></li>
-<li>Site: <a href="https://renan600.github.io/barbearia/" target="_self">https://renan600.github.io/barbearia/</a></li>
-<li>Site: <a href="https://renan600.github.io/projeto-naruto/" target="_self">https://renan600.github.io/projeto-naruto/</a></li>
+<li>Site: <a href="https://renan600.github.io/Projeto-Games/" target="_blank">https://renan600.github.io/Projeto-Games/</a></li>
+<li>Site: <a href="https://renan600.github.io/fruta-e-fruto/" target="_blank">https://renan600.github.io/fruta-e-fruto/</a></li>
+<li>Site: <a href="https://renan600.github.io/Moto-Sport/" target="_blank">https://renan600.github.io/Moto-Sport/</a></li>
+<li>Site: <a href="https://renan600.github.io/barbearia/" target="_blank">https://renan600.github.io/barbearia/</a></li>
+<li>Site: <a href="https://renan600.github.io/projeto-naruto/" target="_blank">https://renan600.github.io/projeto-naruto/</a></li>
 </ul>
 </div>
 
